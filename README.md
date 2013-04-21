@@ -3,6 +3,9 @@
 Small extension for sass to add line number after filename.
 It is very annoying to debug large sass documents. This 'hack' can help you find quickly the right line on right file.
 
+![](https://dl.dropboxusercontent.com/u/555540/sass1.png)
+![](https://dl.dropboxusercontent.com/u/555540/sass2.png)
+
 ## Installation
 
 Add this line to your application's Gemfile:
