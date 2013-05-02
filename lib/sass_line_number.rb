@@ -1,4 +1,5 @@
-require "sass_line_number/version"
+require 'sass_line_number/version'
+require 'sass'
 
 module SassLineNumber
   class Sass::Tree::Visitors::ToCss < Sass::Tree::Visitors::Base
